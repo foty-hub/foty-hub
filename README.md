@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @foty-hub
+- 👋 Hi, I’m Alex
 - 👀 I’m interested in data science and machine learning
 - 🌱 I’m currently learning time series clustering using tslearn
 - 💞️ I’m looking to collaborate on interesting projects
