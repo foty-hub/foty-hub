@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Alex
-- 👀 I’m interested in data science and machine learning
-- 🌱 I’m currently learning time series clustering using tslearn
+- 👀 I’m interested in reinforcement learning and open-endedness
+- 🌱 I’m currently undertaking a master's in ML at UCL!
 - 💞️ I’m looking to collaborate on interesting projects
-- 📫 How to reach me: alexinch96@yahoo.com
+- 📫 How to reach me: alexander.inch.24@ucl.ac.uk
 
 <!---
 foty-hub/foty-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
